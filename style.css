@@ -1,0 +1,46 @@
+body{
+   background-color: hsl(185, 75%, 39%) ;
+}
+.card{
+    background-color: white;
+    height: 50vh;
+    width: 25vw;
+    position: relative;
+    left: 37vw;
+    border-radius: 25px;
+}
+#lucas{
+    height: 14vh;
+    border-radius: 100%;
+    position: relative;
+    left: 9vw;
+    bottom: 7vh;
+    border: solid 7px white;
+}
+#capa{
+    width: 25vw;
+    border-radius: 25px 25px 0 0;
+
+}
+.texto{
+    position: relative;
+    left: 12vh;
+    bottom: 10vh;
+}
+hr{
+    position: relative;
+    right: 6.1vw;
+
+}
+p{
+    position: relative;
+    right: 6.1vw;
+}
+table{
+    position: relative;
+    right: 6.1vw;
+}
+
+
+
+
