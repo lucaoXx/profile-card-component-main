@@ -1,5 +1,7 @@
 body{
    background-color: hsl(185, 75%, 39%) ;
+   font-family: 'Kumbh Sans', sans-serif;
+overflow: hidden;
 }
 .card{
     background-color: white;
@@ -8,6 +10,7 @@ body{
     position: relative;
     left: 37vw;
     border-radius: 25px;
+    bottom: 120vh;
 }
 #lucas{
     height: 14vh;
@@ -40,7 +43,33 @@ table{
     position: relative;
     right: 6.1vw;
 }
-
-
-
-
+td,th{
+    padding-left: 4vw;
+}
+span{
+    font-weight: 400;
+    color: gray;
+}
+p,td{
+    color: gray;
+}
+p{
+    position: relative;
+    left: 5vw;
+}
+#boladireita{
+    position: relative;
+    top: 40vh;
+    right: 20vw;
+    
+  
+}
+#bolaesquerda{
+    position: relative;
+    left: 60vw;
+    top: 10vh;
+}
+.tudo{
+    position: relative;
+    bottom: 70vh;
+}
